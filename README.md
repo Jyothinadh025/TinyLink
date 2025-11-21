@@ -101,7 +101,7 @@ You can test, create, and manage short links here:
 ## 🙋‍♂️ Author
 
 - [Jyothinadh025](https://github.com/Jyothinadh025)
-- Email/contact: *(Optional/if needed)*
+- Email/contact: ajyothinadh@gmail.com
 
 ---
 
