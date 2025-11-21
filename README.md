@@ -93,7 +93,7 @@ Easily create, manage, and share your own short links. Perfect for portfolio, as
 ## 🙋‍♂️ Author
 
 - [Jyothinadh025](https://github.com/Jyothinadh025)
-- Email/contact: *(Optional/if needed)*
+- Email/contact: ajyothinadh@gmail.com
 
 ---
 
