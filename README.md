@@ -1,9 +1,17 @@
 # TinyLink
 
-A modern, full-stack URL shortener built with **Next.js 16 App Router** and **PostgreSQL (NeonDB)**.  
-Easily create, manage, and share your own short links. Perfect for portfolio, assignment, or practical use!
+[![Live Demo](https://img.shields.io/badge/Live%20App-TinyLink-blue?logo=vercel)](https://tiny-link-umber.vercel.app)
 
+A modern, full-stack URL shortener built with **Next.js 16 App Router** and **PostgreSQL (NeonDB)**, now LIVE at  
+👉 [https://tiny-link-umber.vercel.app](https://tiny-link-umber.vercel.app)
+
+..
 ---
+## 🌐 Demo / Live Project
+
+You can test, create, and manage short links here:  
+👉 [https://tiny-link-umber.vercel.app](https://tiny-link-umber.vercel.app)
+
 
 ## 🚀 Features
 
